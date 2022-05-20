@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:wq
+|2,0,1653083431,,"wq"
 :q!
 |2,0,1652815168,,"q!"
-:wq
-|2,0,1652815161,,"wq"
 :se nu
 |2,0,1652673920,,"se nu"
 
@@ -29,22 +29,38 @@
 # Registers:
 
 # File marks:
-'0  1  0  /etc/cron.allow
-|4,48,1,0,1652815168,"/etc/cron.allow"
-'1  2  8  ~/.gitconfig
-|4,49,2,8,1652675010,"~/.gitconfig"
-'2  1  9  ~/tesla/app.py
-|4,50,1,9,1652674051,"~/tesla/app.py"
-'3  4  0  ~/tesla/list
-|4,51,4,0,1652673924,"~/tesla/list"
+'0  6  3  ~/Tiwa.sh
+|4,48,6,3,1653083431,"~/Tiwa.sh"
+'1  1  0  /etc/cron.allow
+|4,49,1,0,1652815168,"/etc/cron.allow"
+'2  2  8  ~/.gitconfig
+|4,50,2,8,1652675010,"~/.gitconfig"
+'3  1  9  ~/tesla/app.py
+|4,51,1,9,1652674051,"~/tesla/app.py"
+'4  4  0  ~/tesla/list
+|4,52,4,0,1652673924,"~/tesla/list"
 
 # Jumplist (newest first):
+-'  6  3  ~/Tiwa.sh
+|4,39,6,3,1653083431,"~/Tiwa.sh"
+-'  1  0  ~/Tiwa.sh
+|4,39,1,0,1653083410,"~/Tiwa.sh"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
 -'  1  0  /etc/cron.allow
 |4,39,1,0,1652815168,"/etc/cron.allow"
 -'  2  8  ~/.gitconfig
 |4,39,2,8,1652675010,"~/.gitconfig"
 -'  2  8  ~/.gitconfig
 |4,39,2,8,1652675010,"~/.gitconfig"
+-'  2  8  ~/.gitconfig
+|4,39,2,8,1652675010,"~/.gitconfig"
+-'  2  8  ~/.gitconfig
+|4,39,2,8,1652675010,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1652674994,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1652674994,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
 |4,39,1,0,1652674994,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
@@ -57,6 +73,14 @@
 |4,39,1,9,1652674051,"~/tesla/app.py"
 -'  1  9  ~/tesla/app.py
 |4,39,1,9,1652674051,"~/tesla/app.py"
+-'  1  9  ~/tesla/app.py
+|4,39,1,9,1652674051,"~/tesla/app.py"
+-'  1  9  ~/tesla/app.py
+|4,39,1,9,1652674051,"~/tesla/app.py"
+-'  1  9  ~/tesla/app.py
+|4,39,1,9,1652674051,"~/tesla/app.py"
+-'  1  9  ~/tesla/app.py
+|4,39,1,9,1652674051,"~/tesla/app.py"
 -'  4  0  ~/tesla/list
 |4,39,4,0,1652673924,"~/tesla/list"
 -'  4  0  ~/tesla/list
@@ -73,6 +97,38 @@
 |4,39,4,0,1652673924,"~/tesla/list"
 -'  4  0  ~/tesla/list
 |4,39,4,0,1652673924,"~/tesla/list"
+-'  4  0  ~/tesla/list
+|4,39,4,0,1652673924,"~/tesla/list"
+-'  4  0  ~/tesla/list
+|4,39,4,0,1652673924,"~/tesla/list"
+-'  4  0  ~/tesla/list
+|4,39,4,0,1652673924,"~/tesla/list"
+-'  4  0  ~/tesla/list
+|4,39,4,0,1652673924,"~/tesla/list"
+-'  4  0  ~/tesla/list
+|4,39,4,0,1652673924,"~/tesla/list"
+-'  4  0  ~/tesla/list
+|4,39,4,0,1652673924,"~/tesla/list"
+-'  4  0  ~/tesla/list
+|4,39,4,0,1652673924,"~/tesla/list"
+-'  4  0  ~/tesla/list
+|4,39,4,0,1652673924,"~/tesla/list"
+-'  1  0  ~/tesla/list
+|4,39,1,0,1652673903,"~/tesla/list"
+-'  1  0  ~/tesla/list
+|4,39,1,0,1652673903,"~/tesla/list"
+-'  1  0  ~/tesla/list
+|4,39,1,0,1652673903,"~/tesla/list"
+-'  1  0  ~/tesla/list
+|4,39,1,0,1652673903,"~/tesla/list"
+-'  1  0  ~/tesla/list
+|4,39,1,0,1652673903,"~/tesla/list"
+-'  1  0  ~/tesla/list
+|4,39,1,0,1652673903,"~/tesla/list"
+-'  1  0  ~/tesla/list
+|4,39,1,0,1652673903,"~/tesla/list"
+-'  1  0  ~/tesla/list
+|4,39,1,0,1652673903,"~/tesla/list"
 -'  1  0  ~/tesla/list
 |4,39,1,0,1652673903,"~/tesla/list"
 -'  1  0  ~/tesla/list
@@ -91,6 +147,13 @@
 |4,39,1,0,1652673903,"~/tesla/list"
 
 # History of marks within files (newest to oldest):
+
+> ~/Tiwa.sh
+	*	1653083430	0
+	"	6	3
+	^	6	4
+	.	6	3
+	+	6	3
 
 > /etc/cron.allow
 	*	1652815164	0

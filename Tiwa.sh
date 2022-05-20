@@ -3,4 +3,4 @@
 lscpu 
 date
 echo "Thats the required output"
-
+df h
