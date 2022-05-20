@@ -4,4 +4,5 @@
 #	name = EC2 Default User
 #	email = ec2-user@ip-172-31-91-213.ec2.internal
 [user]
-	name = Deji Salami
+	name = Dejsal
+	email = dejisalami003@gmail.com
