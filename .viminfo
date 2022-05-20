@@ -15,9 +15,11 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1653048238,,"wq"
+|2,0,1653050019,,"wq"
 :q!
-|2,0,1652815168,,"q!"
+|2,0,1653049953,,"q!"
+:Q!
+|2,0,1653049950,,"Q!"
 :se nu
 |2,0,1652673920,,"se nu"
 
@@ -34,26 +36,190 @@ $
 # Registers:
 
 # File marks:
-'0  1  26  ~/tesla/app.py
-|4,48,1,26,1653048238,"~/tesla/app.py"
-'1  1  0  /etc/cron.allow
-|4,49,1,0,1652815168,"/etc/cron.allow"
-'2  2  8  ~/.gitconfig
-|4,50,2,8,1652675010,"~/.gitconfig"
-'3  1  9  ~/tesla/app.py
-|4,51,1,9,1652674051,"~/tesla/app.py"
-'4  4  0  ~/tesla/list
-|4,52,4,0,1652673924,"~/tesla/list"
+'0  6  0  ~/Tiwabranchfile.sh
+|4,48,6,0,1653050019,"~/Tiwabranchfile.sh"
+'1  5  0  ~/Tiwa
+|4,49,5,0,1653049953,"~/Tiwa"
+'2  5  0  ~/Tiwa
+|4,50,5,0,1653049901,"~/Tiwa"
+'3  1  23  ~/.git/COMMIT_EDITMSG
+|4,51,1,23,1653049097,"~/.git/COMMIT_EDITMSG"
+'4  1  26  ~/tesla/app.py
+|4,52,1,26,1653048238,"~/tesla/app.py"
+'5  1  0  /etc/cron.allow
+|4,53,1,0,1652815168,"/etc/cron.allow"
+'6  2  8  ~/.gitconfig
+|4,54,2,8,1652675010,"~/.gitconfig"
+'7  1  9  ~/tesla/app.py
+|4,55,1,9,1652674051,"~/tesla/app.py"
+'8  4  0  ~/tesla/list
+|4,56,4,0,1652673924,"~/tesla/list"
 
 # Jumplist (newest first):
+-'  6  0  ~/Tiwabranchfile.sh
+|4,39,6,0,1653050019,"~/Tiwabranchfile.sh"
+-'  1  0  ~/Tiwabranchfile.sh
+|4,39,1,0,1653049959,"~/Tiwabranchfile.sh"
+-'  5  0  ~/Tiwa
+|4,39,5,0,1653049953,"~/Tiwa"
+-'  5  0  ~/Tiwa
+|4,39,5,0,1653049953,"~/Tiwa"
+-'  5  0  ~/Tiwa
+|4,39,5,0,1653049901,"~/Tiwa"
+-'  5  0  ~/Tiwa
+|4,39,5,0,1653049901,"~/Tiwa"
+-'  1  0  ~/Tiwa
+|4,39,1,0,1653049815,"~/Tiwa"
+-'  1  0  ~/Tiwa
+|4,39,1,0,1653049815,"~/Tiwa"
+-'  1  0  ~/Tiwa
+|4,39,1,0,1653049815,"~/Tiwa"
+-'  1  0  ~/Tiwa
+|4,39,1,0,1653049815,"~/Tiwa"
+-'  1  23  ~/.git/COMMIT_EDITMSG
+|4,39,1,23,1653049097,"~/.git/COMMIT_EDITMSG"
+-'  1  23  ~/.git/COMMIT_EDITMSG
+|4,39,1,23,1653049097,"~/.git/COMMIT_EDITMSG"
+-'  1  23  ~/.git/COMMIT_EDITMSG
+|4,39,1,23,1653049097,"~/.git/COMMIT_EDITMSG"
+-'  1  23  ~/.git/COMMIT_EDITMSG
+|4,39,1,23,1653049097,"~/.git/COMMIT_EDITMSG"
+-'  1  23  ~/.git/COMMIT_EDITMSG
+|4,39,1,23,1653049097,"~/.git/COMMIT_EDITMSG"
+-'  1  23  ~/.git/COMMIT_EDITMSG
+|4,39,1,23,1653049097,"~/.git/COMMIT_EDITMSG"
+-'  1  23  ~/.git/COMMIT_EDITMSG
+|4,39,1,23,1653049097,"~/.git/COMMIT_EDITMSG"
+-'  1  23  ~/.git/COMMIT_EDITMSG
+|4,39,1,23,1653049097,"~/.git/COMMIT_EDITMSG"
 -'  1  26  ~/tesla/app.py
 |4,39,1,26,1653048238,"~/tesla/app.py"
+-'  1  26  ~/tesla/app.py
+|4,39,1,26,1653048238,"~/tesla/app.py"
+-'  1  26  ~/tesla/app.py
+|4,39,1,26,1653048238,"~/tesla/app.py"
+-'  1  26  ~/tesla/app.py
+|4,39,1,26,1653048238,"~/tesla/app.py"
+-'  1  26  ~/tesla/app.py
+|4,39,1,26,1653048238,"~/tesla/app.py"
+-'  1  26  ~/tesla/app.py
+|4,39,1,26,1653048238,"~/tesla/app.py"
+-'  1  26  ~/tesla/app.py
+|4,39,1,26,1653048238,"~/tesla/app.py"
+-'  1  26  ~/tesla/app.py
+|4,39,1,26,1653048238,"~/tesla/app.py"
+-'  1  26  ~/tesla/app.py
+|4,39,1,26,1653048238,"~/tesla/app.py"
+-'  1  26  ~/tesla/app.py
+|4,39,1,26,1653048238,"~/tesla/app.py"
+-'  1  26  ~/tesla/app.py
+|4,39,1,26,1653048238,"~/tesla/app.py"
+-'  1  26  ~/tesla/app.py
+|4,39,1,26,1653048238,"~/tesla/app.py"
+-'  1  26  ~/tesla/app.py
+|4,39,1,26,1653048238,"~/tesla/app.py"
+-'  1  26  ~/tesla/app.py
+|4,39,1,26,1653048238,"~/tesla/app.py"
+-'  1  26  ~/tesla/app.py
+|4,39,1,26,1653048238,"~/tesla/app.py"
+-'  1  26  ~/tesla/app.py
+|4,39,1,26,1653048238,"~/tesla/app.py"
+-'  1  0  ~/tesla
+|4,39,1,0,1653048213,"~/tesla"
+-'  1  0  ~/tesla
+|4,39,1,0,1653048213,"~/tesla"
+-'  1  0  ~/tesla
+|4,39,1,0,1653048213,"~/tesla"
+-'  1  0  ~/tesla
+|4,39,1,0,1653048213,"~/tesla"
+-'  1  0  ~/tesla
+|4,39,1,0,1653048213,"~/tesla"
+-'  1  0  ~/tesla
+|4,39,1,0,1653048213,"~/tesla"
+-'  1  0  ~/tesla
+|4,39,1,0,1653048213,"~/tesla"
+-'  1  0  ~/tesla
+|4,39,1,0,1653048213,"~/tesla"
+-'  1  0  ~/tesla
+|4,39,1,0,1653048213,"~/tesla"
+-'  1  0  ~/tesla
+|4,39,1,0,1653048213,"~/tesla"
+-'  1  0  ~/tesla
+|4,39,1,0,1653048213,"~/tesla"
+-'  1  0  ~/tesla
+|4,39,1,0,1653048213,"~/tesla"
+-'  1  0  ~/tesla
+|4,39,1,0,1653048213,"~/tesla"
+-'  1  0  ~/tesla
+|4,39,1,0,1653048213,"~/tesla"
+-'  1  0  ~/tesla
+|4,39,1,0,1653048213,"~/tesla"
 -'  1  0  ~/tesla
 |4,39,1,0,1653048213,"~/tesla"
 -'  1  0  /etc/cron.allow
 |4,39,1,0,1652815168,"/etc/cron.allow"
 -'  1  0  /etc/cron.allow
 |4,39,1,0,1652815168,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
+-'  1  0  /etc/cron.allow
+|4,39,1,0,1652815168,"/etc/cron.allow"
 -'  2  8  ~/.gitconfig
 |4,39,2,8,1652675010,"~/.gitconfig"
 -'  2  8  ~/.gitconfig
@@ -62,88 +228,57 @@ $
 |4,39,2,8,1652675010,"~/.gitconfig"
 -'  2  8  ~/.gitconfig
 |4,39,2,8,1652675010,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1652674994,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1652674994,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1652674994,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1652674994,"~/.gitconfig"
--'  1  9  ~/tesla/app.py
-|4,39,1,9,1652674051,"~/tesla/app.py"
--'  1  9  ~/tesla/app.py
-|4,39,1,9,1652674051,"~/tesla/app.py"
--'  1  9  ~/tesla/app.py
-|4,39,1,9,1652674051,"~/tesla/app.py"
--'  1  9  ~/tesla/app.py
-|4,39,1,9,1652674051,"~/tesla/app.py"
--'  4  0  ~/tesla/list
-|4,39,4,0,1652673924,"~/tesla/list"
--'  4  0  ~/tesla/list
-|4,39,4,0,1652673924,"~/tesla/list"
--'  4  0  ~/tesla/list
-|4,39,4,0,1652673924,"~/tesla/list"
--'  4  0  ~/tesla/list
-|4,39,4,0,1652673924,"~/tesla/list"
--'  4  0  ~/tesla/list
-|4,39,4,0,1652673924,"~/tesla/list"
--'  4  0  ~/tesla/list
-|4,39,4,0,1652673924,"~/tesla/list"
--'  4  0  ~/tesla/list
-|4,39,4,0,1652673924,"~/tesla/list"
--'  4  0  ~/tesla/list
-|4,39,4,0,1652673924,"~/tesla/list"
--'  4  0  ~/tesla/list
-|4,39,4,0,1652673924,"~/tesla/list"
--'  4  0  ~/tesla/list
-|4,39,4,0,1652673924,"~/tesla/list"
--'  4  0  ~/tesla/list
-|4,39,4,0,1652673924,"~/tesla/list"
--'  4  0  ~/tesla/list
-|4,39,4,0,1652673924,"~/tesla/list"
--'  4  0  ~/tesla/list
-|4,39,4,0,1652673924,"~/tesla/list"
--'  4  0  ~/tesla/list
-|4,39,4,0,1652673924,"~/tesla/list"
--'  4  0  ~/tesla/list
-|4,39,4,0,1652673924,"~/tesla/list"
--'  4  0  ~/tesla/list
-|4,39,4,0,1652673924,"~/tesla/list"
--'  1  0  ~/tesla/list
-|4,39,1,0,1652673903,"~/tesla/list"
--'  1  0  ~/tesla/list
-|4,39,1,0,1652673903,"~/tesla/list"
--'  1  0  ~/tesla/list
-|4,39,1,0,1652673903,"~/tesla/list"
--'  1  0  ~/tesla/list
-|4,39,1,0,1652673903,"~/tesla/list"
--'  1  0  ~/tesla/list
-|4,39,1,0,1652673903,"~/tesla/list"
--'  1  0  ~/tesla/list
-|4,39,1,0,1652673903,"~/tesla/list"
--'  1  0  ~/tesla/list
-|4,39,1,0,1652673903,"~/tesla/list"
--'  1  0  ~/tesla/list
-|4,39,1,0,1652673903,"~/tesla/list"
--'  1  0  ~/tesla/list
-|4,39,1,0,1652673903,"~/tesla/list"
--'  1  0  ~/tesla/list
-|4,39,1,0,1652673903,"~/tesla/list"
--'  1  0  ~/tesla/list
-|4,39,1,0,1652673903,"~/tesla/list"
--'  1  0  ~/tesla/list
-|4,39,1,0,1652673903,"~/tesla/list"
--'  1  0  ~/tesla/list
-|4,39,1,0,1652673903,"~/tesla/list"
--'  1  0  ~/tesla/list
-|4,39,1,0,1652673903,"~/tesla/list"
--'  1  0  ~/tesla/list
-|4,39,1,0,1652673903,"~/tesla/list"
--'  1  0  ~/tesla/list
-|4,39,1,0,1652673903,"~/tesla/list"
+-'  2  8  ~/.gitconfig
+|4,39,2,8,1652675010,"~/.gitconfig"
+-'  2  8  ~/.gitconfig
+|4,39,2,8,1652675010,"~/.gitconfig"
+-'  2  8  ~/.gitconfig
+|4,39,2,8,1652675010,"~/.gitconfig"
+-'  2  8  ~/.gitconfig
+|4,39,2,8,1652675010,"~/.gitconfig"
+-'  2  8  ~/.gitconfig
+|4,39,2,8,1652675010,"~/.gitconfig"
+-'  2  8  ~/.gitconfig
+|4,39,2,8,1652675010,"~/.gitconfig"
+-'  2  8  ~/.gitconfig
+|4,39,2,8,1652675010,"~/.gitconfig"
+-'  2  8  ~/.gitconfig
+|4,39,2,8,1652675010,"~/.gitconfig"
+-'  2  8  ~/.gitconfig
+|4,39,2,8,1652675010,"~/.gitconfig"
+-'  2  8  ~/.gitconfig
+|4,39,2,8,1652675010,"~/.gitconfig"
+-'  2  8  ~/.gitconfig
+|4,39,2,8,1652675010,"~/.gitconfig"
+-'  2  8  ~/.gitconfig
+|4,39,2,8,1652675010,"~/.gitconfig"
+-'  2  8  ~/.gitconfig
+|4,39,2,8,1652675010,"~/.gitconfig"
+-'  2  8  ~/.gitconfig
+|4,39,2,8,1652675010,"~/.gitconfig"
 
 # History of marks within files (newest to oldest):
+
+> ~/Tiwabranchfile.sh
+	*	1653050018	0
+	"	6	0
+	^	6	0
+	.	5	28
+	+	5	28
+
+> ~/Tiwa
+	*	1653049950	0
+	"	5	0
+	^	5	0
+	.	4	10
+	+	4	10
+
+> ~/.git/COMMIT_EDITMSG
+	*	1653049095	0
+	"	1	23
+	^	1	24
+	.	1	23
+	+	1	23
 
 > ~/tesla/app.py
 	*	1653048236	0
